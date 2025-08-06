@@ -1,3 +1,2 @@
-const PROJECTID = process.env.VITE_PROJECTID;
-
+const PROJECTID = process.env.NEXT_PUBLIC_PROJECT_ID;
 export { PROJECTID };
